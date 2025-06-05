@@ -1,7 +1,16 @@
 function App() {
   return (
     <>
-     <h1>Hols</h1>
+     <div className="container">
+      <div className="row">
+        <div className="col-12">
+          <h1 className="mt-2 text-center alert alert-sucess">
+            hola
+          </h1>
+          
+        </div>
+      </div>
+     </div>
     </>
   )
 }

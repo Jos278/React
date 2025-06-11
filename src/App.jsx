@@ -1,6 +1,7 @@
 import { Boton } from "./components/Boton"
 import { ComponenteBotones } from "./components/ComponenteBotones"
 import { Ejercicio } from "./components/Ejercicio"
+import { Ejercicio02 } from "./components/Ejercicio02"
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
      <Ejercicio />
      <Boton />
      <ComponenteBotones />
+     <Ejercicio02 />
     </>
   )
 }
